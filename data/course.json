@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Photography"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ff3f95cc-6ddb-69b1-10a7-b706dabe048d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Science, Technology, & World",
+  "course_description": "This class is an introduction to studies in science, technology, and society (STS), through examining a series of issues, events, conflicts, and problems as illuminated by STS approaches. This iteration includes units on the Aaron Swartz case, photography, and utopia / dystopia. There are regular guest speakers, and several field trips to encourage hands on learning.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.004",
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
